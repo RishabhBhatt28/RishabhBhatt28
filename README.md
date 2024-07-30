@@ -13,3 +13,46 @@ Hi, I'm Rishabh! I am currently pursuing MCA Integrated, I am on track to comple
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
+###
+<h2> I work with these Technologies </h2>
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="40" alt="Jupyter Notebook logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" alt="Visual Studio Code logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" height="40" alt="NumPy logo"  />
+  <img width="12" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" height="40" alt="Pandas logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" height="40" alt="MATLAB logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" alt="Windows logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/imgres?q=microsoft%20power%20bi%20logo%20copy%20paste%20for%20readme%20github&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42988494%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FPowerBi-Projects&docid=DCN7VyLQOgxuqM&tbnid=7IpNa470XGdycM&vet=12ahUKEwjj4oi-jM6HAxVgV2wGHYr9AK4QM3oECGcQAA..i&w=249&h=249&hcb=2&ved=2ahUKEwjj4oi-jM6HAxVgV2wGHYr9AK4QM3oECGcQAA" height="40" alt="Power Bi logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396828-microsoft-excel-mobile-apps-logo&psig=AOvVaw0175VpUDPTbK6ng5P5mlSw&ust=1722406237055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiXl7SNzocDFQAAAAAdAAAAABAK" height="40" alt="MS Excel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+</div>
+###
+
+###
+<H2>Talk Me On</H2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/rishabh-bhatt-bb4b8a204/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Rishabh280403" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+###
