@@ -34,7 +34,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" height="40" alt="Power Bi logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/417/369/png-clipart-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-thumbnail.png" height="40" alt="MS Excel logo"  />
+  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" height="40" alt="MS Excel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
