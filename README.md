@@ -32,9 +32,9 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" alt="Windows logo"  />
   <img width="12" />
-  <img src="https://www.google.com/imgres?q=microsoft%20power%20bi%20logo%20copy%20paste%20for%20readme%20github&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42988494%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FPowerBi-Projects&docid=DCN7VyLQOgxuqM&tbnid=7IpNa470XGdycM&vet=12ahUKEwjj4oi-jM6HAxVgV2wGHYr9AK4QM3oECGcQAA..i&w=249&h=249&hcb=2&ved=2ahUKEwjj4oi-jM6HAxVgV2wGHYr9AK4QM3oECGcQAA" height="40" alt="Power Bi logo"  />
+  <img src="PNG/Power-BI.png" height="40" alt="Power Bi logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396828-microsoft-excel-mobile-apps-logo&psig=AOvVaw0175VpUDPTbK6ng5P5mlSw&ust=1722406237055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiXl7SNzocDFQAAAAAdAAAAABAK" height="40" alt="MS Excel logo"  />
+  <img src="https://e7.pngegg.com/pngimages/417/369/png-clipart-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-thumbnail.png" height="40" alt="MS Excel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -43,7 +43,6 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
 </div>
-###
 
 ###
 <H2>Talk Me On</H2>
@@ -55,4 +54,4 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-###
+
