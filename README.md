@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 ## About 
 
 Hi, I'm Rishabh! I am currently pursuing MCA Integrated, I am on track to completing my degree in Data Analytics (Mr. Data Analyst). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the Data Analytics field.
-
+Experienced in leveraging data analytics and Python programming to extract meaningful insights and drive informed business decisions. Continuously expanding skills in data visualization. Proven ability to translate complex data into actionable strategies. Eager to contribute to innovative projects and collaborate with diverse teams in achieving organizational goals.
+I always appreciate new technology. 
+And always tries to Learn Something New. 
+Exploring the Artificial Intelligence World.
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 ###
