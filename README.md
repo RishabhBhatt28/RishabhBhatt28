@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 
 ## About 
 
-Hi, I'm Rishabh! I am currently pursuing MCA Integrated, I am on track to completing my degree in Data Analytics (Mr. Data Analyst). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the Data Analytics field.
+Hi, I'm Rishabh! Enthusiastic and goal-oriented software professional with a strong foundation in data analytics, Python, and Power BI. Skilled in 
+creating impactful dashboards and deriving insights from data through academic and internship projects. A quick learner with 
+strong problem-solving and communication skills, ready to contribute effectively in a dynamic tech environment. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the Data Analytics field.
 Experienced in leveraging data analytics and Python programming to extract meaningful insights and drive informed business decisions. Continuously expanding skills in data visualization. Proven ability to translate complex data into actionable strategies. Eager to contribute to innovative projects and collaborate with diverse teams in achieving organizational goals.
 I always appreciate new technology. 
 And always tries to Learn Something New. 
